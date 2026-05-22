@@ -1,6 +1,6 @@
 ## **Urban Heat in Zurich**
 
-In this project you will analyse the LST and NDVI of the city of Zurich form 1985 to 2024 by using Landsat raster data for the 40 year time span, in three-year jumps. By analysing spatial trends, temporal varibility, and utilsing different staitical calculations and plots, you can uncover how the NDVI and the LST influence each other and how they have changed over teh last 40 years. 
+In this project you will analyse the LST and NDVI of the city of Zurich form 1985 to 2024 by using Landsat raster data for the 40 year time span, in three-year jumps. By analysing spatial trends, temporal varibility, and utilsing different statistical calculations and plots, you can uncover how the NDVI and the LST influence each other and how they have changed over the last 40 years. 
 
 ## Research questions answered in this project:
 
